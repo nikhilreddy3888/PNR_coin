@@ -1,5 +1,2 @@
 # PNR_coin
-Implementing a basic blockchain
-Implementing proof-of-work
-Transactions & mining rewards
-Signing transactions
+Implementing a basic blockchain, proof-of-work, Transactions & mining rewards, Signing transactions
